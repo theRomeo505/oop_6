@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\GitHub\OOP_sem6\labs\lab1\src\main\java\.idea/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/httpRequests/
